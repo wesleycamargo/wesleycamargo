@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wesleycamargo/wesleycamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋, my name is Wesley Camargo
+I'm a DevOps and Cloud Consultant at ESX and I like to share my knowledge with the community.
+
+- :star: My main skills are: Azure / DevOps / C# / Powershell
+
+- 🔭 I’m currently have a serie of lives at [Developers BR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ "Developers BR") Youtube Channel named [**DevOps Nights**](https://www.youtube.com/playlist?list=PLkzPm5uaOj98z-Qm834hJzZKLXry6MufB "DevOps Nights") to share knowledge about DevOps and Cloud
+
+- :tv: I also have two vídeo series explaning the main functionalities of Azure DevOps tool: [First edition](https://www.youtube.com/playlist?list=PLkzPm5uaOj999IgfpBN6gmgfd0zqfezfw) and [Second edition](https://www.youtube.com/playlist?list=PLkzPm5uaOj9-H3voHHXDuZKYyoI4CJDct)
+
+- 👯 I’m looking to collaborate with a tool to make Security as Code - TSC 
+
+- 💬 Ask me about DevOps and Cloud!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wesleycamargo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wescamargo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CamargoWes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@camargo.wes)  
+
